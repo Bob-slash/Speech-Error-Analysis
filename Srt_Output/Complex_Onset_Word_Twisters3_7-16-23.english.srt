@@ -1,0 +1,16 @@
+1
+0:00:00,000 --> 0:00:13,000
+A clip, a prop, a clot, a prow.
+
+2
+0:00:13,000 --> 0:00:27,000
+A clad, a praise, a clape, a prep.
+
+3
+0:00:27,000 --> 0:00:40,000
+A clip, a prop, a prow, a clot.
+
+4
+0:00:40,000 --> 0:00:53,000
+A clad, a praise, a prep, a clape.
+

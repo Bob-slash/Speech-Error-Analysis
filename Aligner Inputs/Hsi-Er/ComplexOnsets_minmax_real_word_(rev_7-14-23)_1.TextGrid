@@ -1,0 +1,217 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 54.357333 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Words" 
+        xmin = 0 
+        xmax = 54.357333 
+        intervals: size = 41 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5449490412432612 
+            text = "" 
+        intervals [2]:
+            xmin = 0.5449490412432612 
+            xmax = 2.8839891659552452 
+            text = "a blow  a grad  a blaze  a grew" 
+        intervals [3]:
+            xmin = 2.8839891659552452 
+            xmax = 2.8906153419459306 
+            text = "" 
+        intervals [4]:
+            xmin = 2.8906153419459306 
+            xmax = 5.077253418872148 
+            text = "a blow  a grad  a blaze  a grew" 
+        intervals [5]:
+            xmin = 5.077253418872148 
+            xmax = 5.0876114275111615 
+            text = "" 
+        intervals [6]:
+            xmin = 5.0876114275111615 
+            xmax = 7.331205855196727 
+            text = "a blow  a grad  a blaze  a grew" 
+        intervals [7]:
+            xmin = 7.331205855196727 
+            xmax = 7.386320462105224 
+            text = "" 
+        intervals [8]:
+            xmin = 7.386320462105224 
+            xmax = 9.572958539031442 
+            text = "a blow  a grad  a blaze  a grew" 
+        intervals [9]:
+            xmin = 9.572958539031442 
+            xmax = 9.612141560801746 
+            text = "" 
+        intervals [10]:
+            xmin = 9.612141560801746 
+            xmax = 12.004191093439214 
+            text = "a blow  a grad  a blaze  a-b grew" 
+        intervals [11]:
+            xmin = 12.004191093439214 
+            xmax = 13.392626120932013 
+            text = "" 
+        intervals [12]:
+            xmin = 13.392626120932013 
+            xmax = 15.617113443014354 
+            text = "a blend  a grid  a blur  a green" 
+        intervals [13]:
+            xmin = 15.617113443014354 
+            xmax = 15.635928167882785 
+            text = "" 
+        intervals [14]:
+            xmin = 15.635928167882785 
+            xmax = 17.89702115201554 
+            text = "a blend  a grid  a blur  a green" 
+        intervals [15]:
+            xmin = 17.89702115201554 
+            xmax = 17.921946482570203 
+            text = "" 
+        intervals [16]:
+            xmin = 17.921946482570203 
+            xmax = 20.9634482859005 
+            text = "a bled  a-b grid  a blur  a green" 
+        intervals [17]:
+            xmin = 20.9634482859005 
+            xmax = 21.022128579763923 
+            text = "" 
+        intervals [18]:
+            xmin = 21.022128579763923 
+            xmax = 23.306073414228432 
+            text = "a blend  a grid  a blur  a green" 
+        intervals [19]:
+            xmin = 23.306073414228432 
+            xmax = 23.313026912105403 
+            text = "" 
+        intervals [20]:
+            xmin = 23.313026912105403 
+            xmax = 25.566035304511683 
+            text = "a blend  a grid  a blur  a green" 
+        intervals [21]:
+            xmin = 25.566035304511683 
+            xmax = 26.774577373361055 
+            text = "" 
+        intervals [22]:
+            xmin = 26.774577373361055 
+            xmax = 29.10924891943272 
+            text = "a blow  a grad  a grew  a blaze" 
+        intervals [23]:
+            xmin = 29.10924891943272 
+            xmax = 29.12879067682194 
+            text = "" 
+        intervals [24]:
+            xmin = 29.12879067682194 
+            xmax = 32.13380271164217 
+            text = "a blow  a grad  a-b grew  a blaze" 
+        intervals [25]:
+            xmin = 32.13380271164217 
+            xmax = 32.22136505470173 
+            text = "" 
+        intervals [26]:
+            xmin = 32.22136505470173 
+            xmax = 34.51042989888009 
+            text = "a-g blow  a grad  a grew  a blaze" 
+        intervals [27]:
+            xmin = 34.51042989888009 
+            xmax = 34.550675595775004 
+            text = "" 
+        intervals [28]:
+            xmin = 34.550675595775004 
+            xmax = 37.56699625659824 
+            text = "a blow  a grad  a-b grew  a blaze" 
+        intervals [29]:
+            xmin = 37.56699625659824 
+            xmax = 37.6067819734751 
+            text = "" 
+        intervals [30]:
+            xmin = 37.6067819734751 
+            xmax = 40.08859994866145 
+            text = "a blow  a grad  a grew  a blaze" 
+        intervals [31]:
+            xmin = 40.08859994866145 
+            xmax = 40.70112408867231 
+            text = "" 
+        intervals [32]:
+            xmin = 40.70112408867231 
+            xmax = 43.22989537690272 
+            text = "a blend  a grid  a-b green  a blur" 
+        intervals [33]:
+            xmin = 43.22989537690272 
+            xmax = 43.34392485143831 
+            text = "" 
+        intervals [34]:
+            xmin = 43.34392485143831 
+            xmax = 45.58216203895988 
+            text = "a blend  a grid  a green  a blur" 
+        intervals [35]:
+            xmin = 45.58216203895988 
+            xmax = 45.632650826638795 
+            text = "" 
+        intervals [36]:
+            xmin = 45.632650826638795 
+            xmax = 48.604124780713256 
+            text = "a blend  a grid  a breen  a glur" 
+        intervals [37]:
+            xmin = 48.604124780713256 
+            xmax = 48.87431827503697 
+            text = "" 
+        intervals [38]:
+            xmin = 48.87431827503697 
+            xmax = 51.128285302794026 
+            text = "a blend  a grid  a green  a blur" 
+        intervals [39]:
+            xmin = 51.128285302794026 
+            xmax = 51.14175938621991 
+            text = "" 
+        intervals [40]:
+            xmin = 51.14175938621991 
+            xmax = 53.434845119260885 
+            text = "a blend  a grid  a green  a blur" 
+        intervals [41]:
+            xmin = 53.434845119260885 
+            xmax = 54.357333 
+            text = "" 
+    item [2]:
+        class = "TextTier" 
+        name = "Errors" 
+        xmin = 0 
+        xmax = 54.357333 
+        points: size = 9 
+        points [1]:
+            number = 11.537141023013382 
+            mark = "extra ""b""" 
+        points [2]:
+            number = 18.415852886424833 
+            mark = "blend > bled" 
+        points [3]:
+            number = 18.989087727472576 
+            mark = "extra ""b""" 
+        points [4]:
+            number = 30.597758613486292 
+            mark = "extra ""b""" 
+        points [5]:
+            number = 32.437776508792034 
+            mark = "extra ""g""" 
+        points [6]:
+            number = 35.95046076465253 
+            mark = "extra ""b""" 
+        points [7]:
+            number = 42.27741388372309 
+            mark = "extra ""b""" 
+        points [8]:
+            number = 47.07667714706416 
+            mark = "green > breen" 
+        points [9]:
+            number = 47.915129165708194 
+            mark = "blur > glur" 
+    item [3]:
+        class = "TextTier" 
+        name = "Comments" 
+        xmin = 0 
+        xmax = 54.357333 
+        points: size = 0 

@@ -1,0 +1,211 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 53.845333 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Words" 
+        xmin = 0 
+        xmax = 53.845333 
+        intervals: size = 41 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5358714423010104 
+            text = "" 
+        intervals [2]:
+            xmin = 0.5358714423010104 
+            xmax = 2.731416028664787 
+            text = "a cloud  a pry  a clone  a pray" 
+        intervals [3]:
+            xmin = 2.731416028664787 
+            xmax = 2.7452988936983465 
+            text = "" 
+        intervals [4]:
+            xmin = 2.7452988936983465 
+            xmax = 5.028754694078036 
+            text = "a cloud  a pry  a clone  a pray" 
+        intervals [5]:
+            xmin = 5.028754694078036 
+            xmax = 5.042637559111596 
+            text = "" 
+        intervals [6]:
+            xmin = 5.042637559111596 
+            xmax = 7.2848456227496285 
+            text = "a cloud  a pry  a clone  a pray" 
+        intervals [7]:
+            xmin = 7.2848456227496285 
+            xmax = 7.297442338894025 
+            text = "" 
+        intervals [8]:
+            xmin = 7.297442338894025 
+            xmax = 9.463169284129332 
+            text = "a cloud  a pry  a clone  a pray" 
+        intervals [9]:
+            xmin = 9.463169284129332 
+            xmax = 9.484770522193136 
+            text = "" 
+        intervals [10]:
+            xmin = 9.484770522193136 
+            xmax = 11.766188009374774 
+            text = "a cloud  a pry  a clone  a pray" 
+        intervals [11]:
+            xmin = 11.766188009374774 
+            xmax = 12.979527190203932 
+            text = "" 
+        intervals [12]:
+            xmin = 12.979527190203932 
+            xmax = 15.17562618468763 
+            text = "a clean  a prim  a clove  a prow" 
+        intervals [13]:
+            xmin = 15.17562618468763 
+            xmax = 15.226530023144015 
+            text = "" 
+        intervals [14]:
+            xmin = 15.226530023144015 
+            xmax = 17.69330309887608 
+            text = "a-p clean  a prim  a clove  a prow" 
+        intervals [15]:
+            xmin = 17.69330309887608 
+            xmax = 17.870055023866115 
+            text = "" 
+        intervals [16]:
+            xmin = 17.870055023866115 
+            xmax = 20.125009940571267 
+            text = "a clean  a prim  a clove  a prow" 
+        intervals [17]:
+            xmin = 20.125009940571267 
+            xmax = 20.14352042728268 
+            text = "" 
+        intervals [18]:
+            xmin = 20.14352042728268 
+            xmax = 22.288548435685783 
+            text = "a clean  a prim  a clove  a prow" 
+        intervals [19]:
+            xmin = 22.288548435685783 
+            xmax = 22.37388393908517 
+            text = "" 
+        intervals [20]:
+            xmin = 22.37388393908517 
+            xmax = 24.659929047944665 
+            text = "a clean  a prim  a clove  a prow" 
+        intervals [21]:
+            xmin = 24.659929047944665 
+            xmax = 25.563952729965067 
+            text = "" 
+        intervals [22]:
+            xmin = 25.563952729965067 
+            xmax = 27.786514294925237 
+            text = "a cloud  a pry  a pray  a clone" 
+        intervals [23]:
+            xmin = 27.786514294925237 
+            xmax = 27.8096524033145 
+            text = "" 
+        intervals [24]:
+            xmin = 27.8096524033145 
+            xmax = 30.03456956601965 
+            text = "a cloud  a pry  a pray  a clone" 
+        intervals [25]:
+            xmin = 30.03456956601965 
+            xmax = 30.072409266861975 
+            text = "" 
+        intervals [26]:
+            xmin = 30.072409266861975 
+            xmax = 32.28457957650001 
+            text = "a cloud  a pry  a pray  a clone" 
+        intervals [27]:
+            xmin = 32.28457957650001 
+            xmax = 32.30268920485239 
+            text = "" 
+        intervals [28]:
+            xmin = 32.30268920485239 
+            xmax = 34.54960846398037 
+            text = "a cloud  a pry  a-k pray  a clone" 
+        intervals [29]:
+            xmin = 34.54960846398037 
+            xmax = 34.85925825803751 
+            text = "" 
+        intervals [30]:
+            xmin = 34.85925825803751 
+            xmax = 37.31092888295747 
+            text = "a cloud  a pry  a pray  a clone" 
+        intervals [31]:
+            xmin = 37.31092888295747 
+            xmax = 38.44803766682019 
+            text = "" 
+        intervals [32]:
+            xmin = 38.44803766682019 
+            xmax = 40.854400939303865 
+            text = "a clean  a prim  a prow  a clove" 
+        intervals [33]:
+            xmin = 40.854400939303865 
+            xmax = 40.90944796726698 
+            text = "" 
+        intervals [34]:
+            xmin = 40.90944796726698 
+            xmax = 43.33505688006947 
+            text = "a prean  a prim  a prow  a clove" 
+        intervals [35]:
+            xmin = 43.33505688006947 
+            xmax = 43.452785735213844 
+            text = "" 
+        intervals [36]:
+            xmin = 43.452785735213844 
+            xmax = 45.83495846115391 
+            text = "a clean  a prim  a prow  a clove" 
+        intervals [37]:
+            xmin = 45.83495846115391 
+            xmax = 45.84032123643918 
+            text = "" 
+        intervals [38]:
+            xmin = 45.84032123643918 
+            xmax = 49.43568467811756 
+            text = "a clean  a prim  a-k prow  a clove" 
+        intervals [39]:
+            xmin = 49.43568467811756 
+            xmax = 49.706873341502565 
+            text = "" 
+        intervals [40]:
+            xmin = 49.706873341502565 
+            xmax = 53.0379447422842 
+            text = "a-p clean  a prim  a prow  a clo" 
+        intervals [41]:
+            xmin = 53.0379447422842 
+            xmax = 53.845333 
+            text = "" 
+    item [2]:
+        class = "TextTier" 
+        name = "Errors" 
+        xmin = 0 
+        xmax = 53.845333 
+        points: size = 6 
+        points [1]:
+            number = 15.53683139699648 
+            mark = "extra ""p""" 
+        points [2]:
+            number = 33.63333937176543 
+            mark = "extra ""k""" 
+        points [3]:
+            number = 41.21690931120334 
+            mark = "clean > pream" 
+        points [4]:
+            number = 47.50351739525683 
+            mark = "extra ""k""" 
+        points [5]:
+            number = 50.25733499942189 
+            mark = "extra ""p""" 
+        points [6]:
+            number = 52.75988376799797 
+            mark = "clove > clo" 
+    item [3]:
+        class = "TextTier" 
+        name = "Comments" 
+        xmin = 0 
+        xmax = 53.845333 
+        points: size = 1 
+        points [1]:
+            number = 48.38760869811561 
+            mark = "pause" 

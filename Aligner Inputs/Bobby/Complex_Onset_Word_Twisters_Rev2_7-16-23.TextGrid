@@ -1,0 +1,240 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 55.34621315192744 
+tiers? <exists> 
+size = 6 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 55.34621315192744 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.6731673737662245 
+            text = "" 
+        intervals [2]:
+            xmin = 1.6731673737662245 
+            xmax = 3.8604885473079493 
+            text = "a plank  a fry  a play  a freeze
+" 
+        intervals [3]:
+            xmin = 3.8604885473079493 
+            xmax = 6.148836643131348 
+            text = "a plank  a fry  a play  a freeze
+" 
+        intervals [4]:
+            xmin = 6.148836643131348 
+            xmax = 8.46920966849444 
+            text = "a plank  a fry  a play  a freeze
+" 
+        intervals [5]:
+            xmin = 8.46920966849444 
+            xmax = 10.683986302221047 
+            text = "a plank  a fry  a play  a freeze
+" 
+        intervals [6]:
+            xmin = 10.683986302221047 
+            xmax = 13.503474138170132 
+            text = "a plank  a fry  a play  a freeze
+" 
+        intervals [7]:
+            xmin = 13.503474138170132 
+            xmax = 15.146890809219958 
+            text = "" 
+        intervals [8]:
+            xmin = 15.146890809219958 
+            xmax = 17.449672363380817 
+            text = "a plum  a fret  a ploy  a frisk 
+" 
+        intervals [9]:
+            xmin = 17.449672363380817 
+            xmax = 20.209499072432017 
+            text = "a plum  a fret  a ploy  a frisk 
+" 
+        intervals [10]:
+            xmin = 20.209499072432017 
+            xmax = 22.402283398923323 
+            text = "a plum  a fret  a ploy  a frisk 
+" 
+        intervals [11]:
+            xmin = 22.402283398923323 
+            xmax = 24.64165716455259 
+            text = "a plum  a fret  a ploy  a frisk 
+" 
+        intervals [12]:
+            xmin = 24.64165716455259 
+            xmax = 27.092794631938006 
+            text = "a plum  a fret  a ploy  a frisk 
+" 
+        intervals [13]:
+            xmin = 27.092794631938006 
+            xmax = 28.488122821860856 
+            text = "" 
+        intervals [14]:
+            xmin = 28.488122821860856 
+            xmax = 30.69886733471216 
+            text = "a plank  a fry  a freeze  a play 
+" 
+        intervals [15]:
+            xmin = 30.69886733471216 
+            xmax = 32.87723593315177 
+            text = "a plank  a fry  a freeze  a play 
+" 
+        intervals [16]:
+            xmin = 32.87723593315177 
+            xmax = 35.09384426973716 
+            text = "a plank  a fry  a freeze  a play 
+" 
+        intervals [17]:
+            xmin = 35.09384426973716 
+            xmax = 37.31717280778137 
+            text = "a plank  a fry  a freeze  a play 
+" 
+        intervals [18]:
+            xmin = 37.31717280778137 
+            xmax = 39.55145587148516 
+            text = "a plank  a fry  a freeze  a play 
+" 
+        intervals [19]:
+            xmin = 39.55145587148516 
+            xmax = 40.956109087534216 
+            text = "" 
+        intervals [20]:
+            xmin = 40.956109087534216 
+            xmax = 43.12458174136445 
+            text = "a plum  a fret  a frisk  a ploy
+" 
+        intervals [21]:
+            xmin = 43.12458174136445 
+            xmax = 45.30457983933743 
+            text = "a plum  a fret  a frisk  a ploy
+" 
+        intervals [22]:
+            xmin = 45.30457983933743 
+            xmax = 47.52790837738165 
+            text = "a plum  a fret  a frisk  a ploy
+" 
+        intervals [23]:
+            xmin = 47.52790837738165 
+            xmax = 49.75306861828464 
+            text = "a plum  a fret  a frisk  a ploy
+" 
+        intervals [24]:
+            xmin = 49.75306861828464 
+            xmax = 52.003396909573475 
+            text = "a plum  a fret  a frisk  a ploy
+" 
+        intervals [25]:
+            xmin = 52.003396909573475 
+            xmax = 55.34621315192744 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "subst" 
+        xmin = 0 
+        xmax = 55.34621315192744 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 11.544077105512514 
+            text = "" 
+        intervals [2]:
+            xmin = 11.544077105512514 
+            xmax = 12.058666225200373 
+            text = "replaced p for f in fry" 
+        intervals [3]:
+            xmin = 12.058666225200373 
+            xmax = 18.2501020397744 
+            text = "" 
+        intervals [4]:
+            xmin = 18.2501020397744 
+            xmax = 18.52718848883709 
+            text = "replaced p for f in fret" 
+        intervals [5]:
+            xmin = 18.52718848883709 
+            xmax = 18.93292221782175 
+            text = "" 
+        intervals [6]:
+            xmin = 18.93292221782175 
+            xmax = 19.14073705461877 
+            text = "replaced p for f in ploy" 
+        intervals [7]:
+            xmin = 19.14073705461877 
+            xmax = 55.34621315192744 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "omission" 
+        xmin = 0 
+        xmax = 55.34621315192744 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 51.60755912519819 
+            text = "" 
+        intervals [2]:
+            xmin = 51.60755912519819 
+            xmax = 51.86485368504213 
+            text = "omitted l in ploy" 
+        intervals [3]:
+            xmin = 51.86485368504213 
+            xmax = 55.34621315192744 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "addition" 
+        xmin = 0 
+        xmax = 55.34621315192744 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 10.871152872074545 
+            text = "" 
+        intervals [2]:
+            xmin = 10.871152872074545 
+            xmax = 11.227406878012292 
+            text = "added r in plank to make prlank" 
+        intervals [3]:
+            xmin = 11.227406878012292 
+            xmax = 55.34621315192744 
+            text = "" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "exchange" 
+        xmin = 0 
+        xmax = 55.34621315192744 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 55.34621315192744 
+            text = "" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "comments" 
+        xmin = 0 
+        xmax = 55.34621315192744 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 11.326366324106113 
+            text = "" 
+        intervals [2]:
+            xmin = 11.326366324106113 
+            xmax = 11.544077105512514 
+            text = "started with f sound before ""correcting"" to pry" 
+        intervals [3]:
+            xmin = 11.544077105512514 
+            xmax = 18.93292221782175 
+            text = "" 
+        intervals [4]:
+            xmin = 18.93292221782175 
+            xmax = 19.14073705461877 
+            text = "corrected from f to ploy" 
+        intervals [5]:
+            xmin = 19.14073705461877 
+            xmax = 55.34621315192744 
+            text = "" 

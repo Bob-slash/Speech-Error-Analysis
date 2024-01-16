@@ -1,0 +1,224 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 49.85324263038549 
+tiers? <exists> 
+size = 6 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 49.85324263038549 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.3937069521101184 
+            text = "" 
+        intervals [2]:
+            xmin = 1.3937069521101184 
+            xmax = 3.3431482552901084 
+            text = "pool  can  pin  call
+" 
+        intervals [3]:
+            xmin = 3.3431482552901084 
+            xmax = 5.263899552435573 
+            text = "pool  can  pin  call
+" 
+        intervals [4]:
+            xmin = 5.263899552435573 
+            xmax = 7.236185838487121 
+            text = "pool  can  pin  call
+" 
+        intervals [5]:
+            xmin = 7.236185838487121 
+            xmax = 9.422940208559716 
+            text = "pool  can  pin  call
+" 
+        intervals [6]:
+            xmin = 9.422940208559716 
+            xmax = 11.351191932357315 
+            text = "pool  can  pin  call
+" 
+        intervals [7]:
+            xmin = 11.351191932357315 
+            xmax = 12.897636413405829 
+            text = "" 
+        intervals [8]:
+            xmin = 12.897636413405829 
+            xmax = 14.844721870327954 
+            text = "pool  coin  pine  curl
+" 
+        intervals [9]:
+            xmin = 14.844721870327954 
+            xmax = 16.845086904608713 
+            text = "pool  coin  pine  curl
+" 
+        intervals [10]:
+            xmin = 16.845086904608713 
+            xmax = 18.823129028859842 
+            text = "pool  coin  pine  curl
+" 
+        intervals [11]:
+            xmin = 18.823129028859842 
+            xmax = 20.865261964100082 
+            text = "pool  coin  pine  curl
+" 
+        intervals [12]:
+            xmin = 20.865261964100082 
+            xmax = 22.96643031489853 
+            text = "pool  coin  pine  curl
+" 
+        intervals [13]:
+            xmin = 22.96643031489853 
+            xmax = 24.624272902155933 
+            text = "" 
+        intervals [14]:
+            xmin = 24.624272902155933 
+            xmax = 26.719801005123834 
+            text = "pull  con  cool  pan
+" 
+        intervals [15]:
+            xmin = 26.719801005123834 
+            xmax = 28.780010643619033 
+            text = "pull  con  cool  pan
+" 
+        intervals [16]:
+            xmin = 28.780010643619033 
+            xmax = 30.8619678262457 
+            text = "pull  con  cool  pan
+" 
+        intervals [17]:
+            xmin = 30.8619678262457 
+            xmax = 32.83975165693543 
+            text = "pull  con  cool  pan
+" 
+        intervals [18]:
+            xmin = 32.83975165693543 
+            xmax = 34.81038696332214 
+            text = "pull  con  cool  pan
+" 
+        intervals [19]:
+            xmin = 34.81038696332214 
+            xmax = 36.42397346340209 
+            text = "" 
+        intervals [20]:
+            xmin = 36.42397346340209 
+            xmax = 38.46626823547559 
+            text = "pearl  cairn  cull  pine
+" 
+        intervals [21]:
+            xmin = 38.46626823547559 
+            xmax = 40.52647787397079 
+            text = "pearl  cairn  cull  pine
+" 
+        intervals [22]:
+            xmin = 40.52647787397079 
+            xmax = 42.42685322240907 
+            text = "pearl  cairn  cull  pine
+" 
+        intervals [23]:
+            xmin = 42.42685322240907 
+            xmax = 44.728426558268644 
+            text = "pearl  cairn  cull  pine
+" 
+        intervals [24]:
+            xmin = 44.728426558268644 
+            xmax = 47.4138071257445 
+            text = "pearl  cairn  cull  pine
+" 
+        intervals [25]:
+            xmin = 47.4138071257445 
+            xmax = 49.85324263038549 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "subst" 
+        xmin = 0 
+        xmax = 49.85324263038549 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 45.23997134941664 
+            text = "" 
+        intervals [2]:
+            xmin = 45.23997134941664 
+            xmax = 45.70650231511257 
+            text = "substituted n for l in cairn" 
+        intervals [3]:
+            xmin = 45.70650231511257 
+            xmax = 49.85324263038549 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "omission" 
+        xmin = 0 
+        xmax = 49.85324263038549 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 39.075373693813304 
+            text = "" 
+        intervals [2]:
+            xmin = 39.075373693813304 
+            xmax = 39.57698995362083 
+            text = "omitted n in cairn" 
+        intervals [3]:
+            xmin = 39.57698995362083 
+            xmax = 41.146789723169796 
+            text = "" 
+        intervals [4]:
+            xmin = 41.146789723169796 
+            xmax = 41.573615925827774 
+            text = "omitted n in cairn" 
+        intervals [5]:
+            xmin = 41.573615925827774 
+            xmax = 49.85324263038549 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "addition" 
+        xmin = 0 
+        xmax = 49.85324263038549 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 38.55584256758408 
+            text = "" 
+        intervals [2]:
+            xmin = 38.55584256758408 
+            xmax = 39.00371422812651 
+            text = "added u in pearl to make puearl" 
+        intervals [3]:
+            xmin = 39.00371422812651 
+            xmax = 49.85324263038549 
+            text = "" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "exchange" 
+        xmin = 0 
+        xmax = 49.85324263038549 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 49.85324263038549 
+            text = "" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "comments" 
+        xmin = 0 
+        xmax = 49.85324263038549 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 45.746207078150526 
+            text = "" 
+        intervals [2]:
+            xmin = 45.746207078150526 
+            xmax = 46.32192614220082 
+            text = "pause" 
+        intervals [3]:
+            xmin = 46.32192614220082 
+            xmax = 49.85324263038549 
+            text = "" 

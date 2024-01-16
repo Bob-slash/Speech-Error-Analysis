@@ -1,0 +1,202 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 50.752 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Words" 
+        xmin = 0 
+        xmax = 50.752 
+        intervals: size = 41 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.47450184893201663 
+            text = "" 
+        intervals [2]:
+            xmin = 0.47450184893201663 
+            xmax = 2.748758359823781 
+            text = "a plank  a fry  a play  a freeze" 
+        intervals [3]:
+            xmin = 2.748758359823781 
+            xmax = 2.7635869447385035 
+            text = "" 
+        intervals [4]:
+            xmin = 2.7635869447385035 
+            xmax = 4.882763269244839 
+            text = "a plank  a fry  a play  a freeze" 
+        intervals [5]:
+            xmin = 4.882763269244839 
+            xmax = 4.905335781309886 
+            text = "" 
+        intervals [6]:
+            xmin = 4.905335781309886 
+            xmax = 6.9457810968562335 
+            text = "a plank  a fry  a play  a freeze" 
+        intervals [7]:
+            xmin = 6.9457810968562335 
+            xmax = 6.9566054695061945 
+            text = "" 
+        intervals [8]:
+            xmin = 6.9566054695061945 
+            xmax = 9.061973111480077 
+            text = "a plank  a fry  a play  a freeze" 
+        intervals [9]:
+            xmin = 9.061973111480077 
+            xmax = 9.079358401543368 
+            text = "" 
+        intervals [10]:
+            xmin = 9.079358401543368 
+            xmax = 11.24446114794303 
+            text = "a plank  a fry  a play  a freeze" 
+        intervals [11]:
+            xmin = 11.24446114794303 
+            xmax = 12.149417822336435 
+            text = "" 
+        intervals [12]:
+            xmin = 12.149417822336435 
+            xmax = 14.184225987234578 
+            text = "a plum  a fret  a ploy  a frisk" 
+        intervals [13]:
+            xmin = 14.184225987234578 
+            xmax = 14.197801329034387 
+            text = "" 
+        intervals [14]:
+            xmin = 14.197801329034387 
+            xmax = 16.231053564572363 
+            text = "a plum  a fret  a ploy  a frisk" 
+        intervals [15]:
+            xmin = 16.231053564572363 
+            xmax = 16.248611507322245 
+            text = "" 
+        intervals [16]:
+            xmin = 16.248611507322245 
+            xmax = 18.388450944717135 
+            text = "a plum  a fret  a ploy  a frisk" 
+        intervals [17]:
+            xmin = 18.388450944717135 
+            xmax = 18.440944620464162 
+            text = "" 
+        intervals [18]:
+            xmin = 18.440944620464162 
+            xmax = 20.5674265946134 
+            text = "a plum  a fret  a ploy  a fris" 
+        intervals [19]:
+            xmin = 20.5674265946134 
+            xmax = 20.60662285794898 
+            text = "" 
+        intervals [20]:
+            xmin = 20.60662285794898 
+            xmax = 22.83738389163768 
+            text = "a plum  a fret  a ploy  a frisk" 
+        intervals [21]:
+            xmin = 22.83738389163768 
+            xmax = 24.09889967367541 
+            text = "" 
+        intervals [22]:
+            xmin = 24.09889967367541 
+            xmax = 26.553109273539057 
+            text = "a plank  a fry  a freeze  a play" 
+        intervals [23]:
+            xmin = 26.553109273539057 
+            xmax = 26.597957343124232 
+            text = "" 
+        intervals [24]:
+            xmin = 26.597957343124232 
+            xmax = 29.160499080698077 
+            text = "a plank  a fry  a freeze  a plane" 
+        intervals [25]:
+            xmin = 29.160499080698077 
+            xmax = 29.416223750459352 
+            text = "" 
+        intervals [26]:
+            xmin = 29.416223750459352 
+            xmax = 31.56674450544509 
+            text = "a plank  a fry  a freeze  a play" 
+        intervals [27]:
+            xmin = 31.56674450544509 
+            xmax = 31.573629863031687 
+            text = "" 
+        intervals [28]:
+            xmin = 31.573629863031687 
+            xmax = 33.65888939027633 
+            text = "a plank  a fry  a freeze  a play" 
+        intervals [29]:
+            xmin = 33.65888939027633 
+            xmax = 33.668509521088744 
+            text = "" 
+        intervals [30]:
+            xmin = 33.668509521088744 
+            xmax = 35.93656410752368 
+            text = "a plank  a fry  a freeze  a play" 
+        intervals [31]:
+            xmin = 35.93656410752368 
+            xmax = 36.84564676394944 
+            text = "" 
+        intervals [32]:
+            xmin = 36.84564676394944 
+            xmax = 39.003486517766426 
+            text = "a plum  a fret  a frisk  a ploy" 
+        intervals [33]:
+            xmin = 39.003486517766426 
+            xmax = 39.020101452992435 
+            text = "" 
+        intervals [34]:
+            xmin = 39.020101452992435 
+            xmax = 41.07482020540825 
+            text = "a plum  a fret  a frisk  a ploy" 
+        intervals [35]:
+            xmin = 41.07482020540825 
+            xmax = 41.18245748145981 
+            text = "" 
+        intervals [36]:
+            xmin = 41.18245748145981 
+            xmax = 43.3036359747797 
+            text = "a plum  a fret  a frisk  a ploy" 
+        intervals [37]:
+            xmin = 43.3036359747797 
+            xmax = 43.34700290422451 
+            text = "" 
+        intervals [38]:
+            xmin = 43.34700290422451 
+            xmax = 46.21373910668046 
+            text = "a plum  a fret  a-p frisk  a ploy" 
+        intervals [39]:
+            xmin = 46.21373910668046 
+            xmax = 46.342054215929394 
+            text = "" 
+        intervals [40]:
+            xmin = 46.342054215929394 
+            xmax = 49.43630111711982 
+            text = "a-f plum  a fret  a pris  a ploy" 
+        intervals [41]:
+            xmin = 49.43630111711982 
+            xmax = 50.752 
+            text = "" 
+    item [2]:
+        class = "TextTier" 
+        name = "Errors" 
+        xmin = 0 
+        xmax = 50.752 
+        points: size = 4 
+        points [1]:
+            number = 20.478953225021076 
+            mark = "frisk > fris" 
+        points [2]:
+            number = 28.718008406589163 
+            mark = "play > plane" 
+        points [3]:
+            number = 44.843006950534246 
+            mark = "extra ""p""" 
+        points [4]:
+            number = 48.20264217658822 
+            mark = "frisk > pris" 
+    item [3]:
+        class = "TextTier" 
+        name = "Comments" 
+        xmin = 0 
+        xmax = 50.752 
+        points: size = 0 

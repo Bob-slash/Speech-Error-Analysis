@@ -1,0 +1,217 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 45.111 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Words" 
+        xmin = 0 
+        xmax = 45.111 
+        intervals: size = 41 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.908121830548407 
+            text = " " 
+        intervals [2]:
+            xmin = 0.908121830548407 
+            xmax = 2.848202917631252 
+            text = "pool  can  pin  call" 
+        intervals [3]:
+            xmin = 2.848202917631252 
+            xmax = 2.8597988468337614 
+            text = "" 
+        intervals [4]:
+            xmin = 2.8597988468337614 
+            xmax = 4.674561767026487 
+            text = "pull  can  pin  call" 
+        intervals [5]:
+            xmin = 4.674561767026487 
+            xmax = 4.679041096055097 
+            text = "" 
+        intervals [6]:
+            xmin = 4.679041096055097 
+            xmax = 6.465990844643231 
+            text = "pull  can  pin  call" 
+        intervals [7]:
+            xmin = 6.465990844643231 
+            xmax = 6.48330145082417 
+            text = "" 
+        intervals [8]:
+            xmin = 6.48330145082417 
+            xmax = 8.20570676582763 
+            text = "pull  can  pin  call" 
+        intervals [9]:
+            xmin = 8.20570676582763 
+            xmax = 8.23167267509904 
+            text = "" 
+        intervals [10]:
+            xmin = 8.23167267509904 
+            xmax = 9.9540779901025 
+            text = "pull  can  pin  call" 
+        intervals [11]:
+            xmin = 9.9540779901025 
+            xmax = 11.038307140674759 
+            text = "" 
+        intervals [12]:
+            xmin = 11.038307140674759 
+            xmax = 12.854081774555999 
+            text = "pool  coin  pine  curl" 
+        intervals [13]:
+            xmin = 12.854081774555999 
+            xmax = 12.883779023240972 
+            text = "" 
+        intervals [14]:
+            xmin = 12.883779023240972 
+            xmax = 14.60428974768104 
+            text = "pool  coin  pine  curl" 
+        intervals [15]:
+            xmin = 14.60428974768104 
+            xmax = 14.681404672129245 
+            text = "" 
+        intervals [16]:
+            xmin = 14.681404672129245 
+            xmax = 16.38323011984686 
+            text = "pool  coin  pine  curl" 
+        intervals [17]:
+            xmin = 16.38323011984686 
+            xmax = 16.398193663845664 
+            text = "" 
+        intervals [18]:
+            xmin = 16.398193663845664 
+            xmax = 18.465544981561305 
+            text = "pool  coin  pine  curl" 
+        intervals [19]:
+            xmin = 18.465544981561305 
+            xmax = 18.51624027177819 
+            text = "" 
+        intervals [20]:
+            xmin = 18.51624027177819 
+            xmax = 20.399894331225084 
+            text = "pool  coin  pine  curl" 
+        intervals [21]:
+            xmin = 20.399894331225084 
+            xmax = 21.526460081965684 
+            text = "" 
+        intervals [22]:
+            xmin = 21.526460081965684 
+            xmax = 23.416158115768095 
+            text = "pull  con  cool  pan" 
+        intervals [23]:
+            xmin = 23.416158115768095 
+            xmax = 23.424584851999022 
+            text = "" 
+        intervals [24]:
+            xmin = 23.424584851999022 
+            xmax = 25.18025 
+            text = "pull  con  cool  pan" 
+        intervals [25]:
+            xmin = 25.18025 
+            xmax = 25.293829136483225 
+            text = "" 
+        intervals [26]:
+            xmin = 25.293829136483225 
+            xmax = 27.294137297629003 
+            text = "pull  con  pk-cool  pan" 
+        intervals [27]:
+            xmin = 27.294137297629003 
+            xmax = 27.377265200678785 
+            text = "" 
+        intervals [28]:
+            xmin = 27.377265200678785 
+            xmax = 29.727935031766215 
+            text = "pull  con  p-cool  pan" 
+        intervals [29]:
+            xmin = 29.727935031766215 
+            xmax = 29.784763727369548 
+            text = "" 
+        intervals [30]:
+            xmin = 29.784763727369548 
+            xmax = 31.74971993292251 
+            text = "pull  con  cool  plan" 
+        intervals [31]:
+            xmin = 31.74971993292251 
+            xmax = 32.324609267879836 
+            text = "" 
+        intervals [32]:
+            xmin = 32.324609267879836 
+            xmax = 35.37951155985862 
+            text = "pearl  cairn  cull  pine" 
+        intervals [33]:
+            xmin = 35.37951155985862 
+            xmax = 35.45556457170959 
+            text = "" 
+        intervals [34]:
+            xmin = 35.45556457170959 
+            xmax = 37.34706255115831 
+            text = "pearl  cairn  cull  pine" 
+        intervals [35]:
+            xmin = 37.34706255115831 
+            xmax = 37.35565274076454 
+            text = "" 
+        intervals [36]:
+            xmin = 37.35565274076454 
+            xmax = 39.583907686416225 
+            text = "pearl  cairn  cull  pine" 
+        intervals [37]:
+            xmin = 39.583907686416225 
+            xmax = 39.62701376025706 
+            text = "" 
+        intervals [38]:
+            xmin = 39.62701376025706 
+            xmax = 42.27513361363943 
+            text = "pearl  cairn  p-cull  pine" 
+        intervals [39]:
+            xmin = 42.27513361363943 
+            xmax = 42.37828089159222 
+            text = "" 
+        intervals [40]:
+            xmin = 42.37828089159222 
+            xmax = 44.39268035425304 
+            text = "pearl  cairn  cull  pine" 
+        intervals [41]:
+            xmin = 44.39268035425304 
+            xmax = 45.111 
+            text = "" 
+    item [2]:
+        class = "TextTier" 
+        name = "Errors" 
+        xmin = 0 
+        xmax = 45.111 
+        points: size = 8 
+        points [1]:
+            number = 3.1240642004649337 
+            mark = "pool > pull" 
+        points [2]:
+            number = 4.927179497778383 
+            mark = "pool > pull" 
+        points [3]:
+            number = 6.7300092822428335 
+            mark = "pool > pull" 
+        points [4]:
+            number = 8.45719594391648 
+            mark = "pool > pull" 
+        points [5]:
+            number = 26.13130402954415 
+            mark = "extra ""pk""" 
+        points [6]:
+            number = 28.754653296275336 
+            mark = "extra ""p""" 
+        points [7]:
+            number = 31.302086142456062 
+            mark = "pan > plan" 
+        points [8]:
+            number = 40.94299795054636 
+            mark = "extra ""p""" 
+    item [3]:
+        class = "TextTier" 
+        name = "Comments" 
+        xmin = 0 
+        xmax = 45.111 
+        points: size = 1 
+        points [1]:
+            number = 33.602359178846 
+            mark = "hesitant" 

@@ -1,0 +1,240 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 56.28952380952381 
+tiers? <exists> 
+size = 6 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 56.28952380952381 
+        intervals: size = 25 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.319001710745128 
+            text = "" 
+        intervals [2]:
+            xmin = 1.319001710745128 
+            xmax = 3.678876467338373 
+            text = "a cloud  a pry  a clone  a pray
+" 
+        intervals [3]:
+            xmin = 3.678876467338373 
+            xmax = 5.98120049003384 
+            text = "a cloud  a pry  a clone  a pray
+" 
+        intervals [4]:
+            xmin = 5.98120049003384 
+            xmax = 8.291018193441474 
+            text = "a cloud  a pry  a clone  a pray
+" 
+        intervals [5]:
+            xmin = 8.291018193441474 
+            xmax = 10.614982791679012 
+            text = "a cloud  a pry  a clone  a pray
+" 
+        intervals [6]:
+            xmin = 10.614982791679012 
+            xmax = 12.756350626365474 
+            text = "a cloud  a pry  a clone  a pray
+" 
+        intervals [7]:
+            xmin = 12.756350626365474 
+            xmax = 14.432288139594831 
+            text = "" 
+        intervals [8]:
+            xmin = 14.432288139594831 
+            xmax = 16.793598453409466 
+            text = "a clean  a prim  a clove  a prow
+" 
+        intervals [9]:
+            xmin = 16.793598453409466 
+            xmax = 19.138906081875593 
+            text = "a clean  a prim  a clove  a prow
+" 
+        intervals [10]:
+            xmin = 19.138906081875593 
+            xmax = 21.39273129659058 
+            text = "a clean  a prim  a clove  a prow
+" 
+        intervals [11]:
+            xmin = 21.39273129659058 
+            xmax = 23.704527478500555 
+            text = "a clean  a prim  a clove  a prow
+" 
+        intervals [12]:
+            xmin = 23.704527478500555 
+            xmax = 26.661654488305675 
+            text = "a clean  a prim  a clove  a prow
+" 
+        intervals [13]:
+            xmin = 26.661654488305675 
+            xmax = 28.788332506881282 
+            text = "" 
+        intervals [14]:
+            xmin = 28.788332506881282 
+            xmax = 31.106361669611772 
+            text = "a cloud  a pry  a pray  a clone
+" 
+        intervals [15]:
+            xmin = 31.106361669611772 
+            xmax = 33.43979842706384 
+            text = "a cloud  a pry  a pray  a clone
+" 
+        intervals [16]:
+            xmin = 33.43979842706384 
+            xmax = 35.72401859792471 
+            text = "a cloud  a pry  a pray  a clone
+" 
+        intervals [17]:
+            xmin = 35.72401859792471 
+            xmax = 38.22320896698488 
+            text = "a cloud  a pry  a pray  a clone
+" 
+        intervals [18]:
+            xmin = 38.22320896698488 
+            xmax = 40.44916062533728 
+            text = "a cloud  a pry  a pray  a clone
+" 
+        intervals [19]:
+            xmin = 40.44916062533728 
+            xmax = 42.50414101518519 
+            text = "" 
+        intervals [20]:
+            xmin = 42.50414101518519 
+            xmax = 44.805747259269964 
+            text = "a clean  a prim  a prow  a clove
+" 
+        intervals [21]:
+            xmin = 44.805747259269964 
+            xmax = 47.523444550236924 
+            text = "a clean  a prim  a prow  a clove
+" 
+        intervals [22]:
+            xmin = 47.523444550236924 
+            xmax = 49.783625433756164 
+            text = "a clean  a prim  a prow  a clove
+" 
+        intervals [23]:
+            xmin = 49.783625433756164 
+            xmax = 52.11436593409517 
+            text = "a clean  a prim  a prow  a clove
+" 
+        intervals [24]:
+            xmin = 52.11436593409517 
+            xmax = 54.518941126838 
+            text = "a clean  a prim  a prow  a clove
+" 
+        intervals [25]:
+            xmin = 54.518941126838 
+            xmax = 56.28952380952381 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "subst" 
+        xmin = 0 
+        xmax = 56.28952380952381 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 24.447451012983617 
+            text = "" 
+        intervals [2]:
+            xmin = 24.447451012983617 
+            xmax = 24.928166241178538 
+            text = "replaced m for v in prim" 
+        intervals [3]:
+            xmin = 24.928166241178538 
+            xmax = 34.835423782170466 
+            text = "" 
+        intervals [4]:
+            xmin = 34.835423782170466 
+            xmax = 35.1704677290942 
+            text = "replaced r for l in pray" 
+        intervals [5]:
+            xmin = 35.1704677290942 
+            xmax = 46.081298865652165 
+            text = "" 
+        intervals [6]:
+            xmin = 46.081298865652165 
+            xmax = 46.6494168626098 
+            text = "replaced pr for cl in prow" 
+        intervals [7]:
+            xmin = 46.6494168626098 
+            xmax = 47.67139185532394 
+            text = "" 
+        intervals [8]:
+            xmin = 47.67139185532394 
+            xmax = 48.1084056991375 
+            text = "replaced c for p in clean" 
+        intervals [9]:
+            xmin = 48.1084056991375 
+            xmax = 56.28952380952381 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "omission" 
+        xmin = 0 
+        xmax = 56.28952380952381 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 56.28952380952381 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "addition" 
+        xmin = 0 
+        xmax = 56.28952380952381 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 56.28952380952381 
+            text = "" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "exchange" 
+        xmin = 0 
+        xmax = 56.28952380952381 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 56.28952380952381 
+            text = "" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "comments" 
+        xmin = 0 
+        xmax = 56.28952380952381 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 24.855330600542942 
+            text = "" 
+        intervals [2]:
+            xmin = 24.855330600542942 
+            xmax = 25.350612956864982 
+            text = "discontinuity, long pause" 
+        intervals [3]:
+            xmin = 25.350612956864982 
+            xmax = 46.081298865652165 
+            text = "" 
+        intervals [4]:
+            xmin = 46.081298865652165 
+            xmax = 46.6494168626098 
+            text = "corrected cl to prow" 
+        intervals [5]:
+            xmin = 46.6494168626098 
+            xmax = 47.67139185532394 
+            text = "" 
+        intervals [6]:
+            xmin = 47.67139185532394 
+            xmax = 48.1084056991375 
+            text = "corrected from p to clean" 
+        intervals [7]:
+            xmin = 48.1084056991375 
+            xmax = 56.28952380952381 
+            text = "" 

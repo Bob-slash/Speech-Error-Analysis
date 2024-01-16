@@ -1,0 +1,220 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 49.578667 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Words" 
+        xmin = 0 
+        xmax = 49.578667 
+        intervals: size = 41 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.8367368101104347 
+            text = "" 
+        intervals [2]:
+            xmin = 0.8367368101104347 
+            xmax = 3.0352993918183215 
+            text = "a pool  a can  a pin  a call " 
+        intervals [3]:
+            xmin = 3.0352993918183215 
+            xmax = 3.040969768041824 
+            text = "" 
+        intervals [4]:
+            xmin = 3.040969768041824 
+            xmax = 5.246365675944876 
+            text = "a pull  a can  a pin  a call" 
+        intervals [5]:
+            xmin = 5.246365675944876 
+            xmax = 5.2821744875810275 
+            text = "" 
+        intervals [6]:
+            xmin = 5.2821744875810275 
+            xmax = 7.338491325837689 
+            text = "a pool  a can  a pin  a call" 
+        intervals [7]:
+            xmin = 7.338491325837689 
+            xmax = 7.354121194907879 
+            text = "" 
+        intervals [8]:
+            xmin = 7.354121194907879 
+            xmax = 9.450818416906293 
+            text = "a pool  a can  a pin  a call" 
+        intervals [9]:
+            xmin = 9.450818416906293 
+            xmax = 9.473219446080941 
+            text = "" 
+        intervals [10]:
+            xmin = 9.473219446080941 
+            xmax = 11.624931421410624 
+            text = "a pool  a can  a pin  a call" 
+        intervals [11]:
+            xmin = 11.624931421410624 
+            xmax = 12.458261265930728 
+            text = "" 
+        intervals [12]:
+            xmin = 12.458261265930728 
+            xmax = 14.476620986462878 
+            text = "a pool  a coin  a pine  a curl" 
+        intervals [13]:
+            xmin = 14.476620986462878 
+            xmax = 14.4974608118898 
+            text = "" 
+        intervals [14]:
+            xmin = 14.4974608118898 
+            xmax = 16.671479738336473 
+            text = "a pool  a coin  a pine  a curl" 
+        intervals [15]:
+            xmin = 16.671479738336473 
+            xmax = 16.694520252298517 
+            text = "" 
+        intervals [16]:
+            xmin = 16.694520252298517 
+            xmax = 18.721193275066668 
+            text = "a pool  a coin  a pine  a curl" 
+        intervals [17]:
+            xmin = 18.721193275066668 
+            xmax = 18.88710329919554 
+            text = "" 
+        intervals [18]:
+            xmin = 18.88710329919554 
+            xmax = 20.788737369402163 
+            text = "a pool  a coin  a pine  a curl" 
+        intervals [19]:
+            xmin = 20.788737369402163 
+            xmax = 20.804367238472352 
+            text = "" 
+        intervals [20]:
+            xmin = 20.804367238472352 
+            xmax = 23.06110598183934 
+            text = "a pool  a coin  a pine  a curl" 
+        intervals [21]:
+            xmin = 23.06110598183934 
+            xmax = 23.965908089663596 
+            text = "" 
+        intervals [22]:
+            xmin = 23.965908089663596 
+            xmax = 26.046335957804434 
+            text = "a pull  a con  a cool  a pan" 
+        intervals [23]:
+            xmin = 26.046335957804434 
+            xmax = 26.067175783231356 
+            text = "" 
+        intervals [24]:
+            xmin = 26.067175783231356 
+            xmax = 28.95091784964688 
+            text = "a pull  a pon  a cul  a pan" 
+        intervals [25]:
+            xmin = 28.95091784964688 
+            xmax = 28.95876317761081 
+            text = "" 
+        intervals [26]:
+            xmin = 28.95876317761081 
+            xmax = 31.162246841942423 
+            text = "a pull  a con  a pool  a pan" 
+        intervals [27]:
+            xmin = 31.162246841942423 
+            xmax = 31.36916614873504 
+            text = "" 
+        intervals [28]:
+            xmin = 31.36916614873504 
+            xmax = 33.44595225225136 
+            text = "a pull  a con  a cool  a pan" 
+        intervals [29]:
+            xmin = 33.44595225225136 
+            xmax = 33.448927609970845 
+            text = "" 
+        intervals [30]:
+            xmin = 33.448927609970845 
+            xmax = 36.372447274851766 
+            text = "a pull  a con  a cool  a pan" 
+        intervals [31]:
+            xmin = 36.372447274851766 
+            xmax = 37.09292352387649 
+            text = "" 
+        intervals [32]:
+            xmin = 37.09292352387649 
+            xmax = 39.24699485722536 
+            text = "a pearl  a cairn  a cull  a pine" 
+        intervals [33]:
+            xmin = 39.24699485722536 
+            xmax = 39.262458433743035 
+            text = "" 
+        intervals [34]:
+            xmin = 39.262458433743035 
+            xmax = 41.97474384171114 
+            text = "a-pk pearl  a cairn  a cull  a pine" 
+        intervals [35]:
+            xmin = 41.97474384171114 
+            xmax = 42.015382909662854 
+            text = "" 
+        intervals [36]:
+            xmin = 42.015382909662854 
+            xmax = 44.212325411881224 
+            text = "a pearl  a cairn  a cull  a pine" 
+        intervals [37]:
+            xmin = 44.212325411881224 
+            xmax = 44.21791291660745 
+            text = "" 
+        intervals [38]:
+            xmin = 44.21791291660745 
+            xmax = 46.62891573157691 
+            text = "a pearl  a cairn  a cull  a pine" 
+        intervals [39]:
+            xmin = 46.62891573157691 
+            xmax = 46.67013148200792 
+            text = "" 
+        intervals [40]:
+            xmin = 46.67013148200792 
+            xmax = 48.858666434261664 
+            text = "a pearl  a cairn  a cull  a pine" 
+        intervals [41]:
+            xmin = 48.858666434261664 
+            xmax = 49.578667 
+            text = "" 
+    item [2]:
+        class = "TextTier" 
+        name = "Errors" 
+        xmin = 0 
+        xmax = 49.578667 
+        points: size = 7 
+        points [1]:
+            number = 3.425814101933108 
+            mark = "pool > pull" 
+        points [2]:
+            number = 26.712733655168314 
+            mark = "extra ""o""" 
+        points [3]:
+            number = 27.020700860222533 
+            mark = "con > pon" 
+        points [4]:
+            number = 28.336126581950367 
+            mark = "cool > cul" 
+        points [5]:
+            number = 30.251514594504428 
+            mark = "cool > pool" 
+        points [6]:
+            number = 34.34991508916335 
+            mark = "extra ""p""" 
+        points [7]:
+            number = 39.426559930459 
+            mark = "extra ""pk""" 
+    item [3]:
+        class = "TextTier" 
+        name = "Comments" 
+        xmin = 0 
+        xmax = 49.578667 
+        points: size = 3 
+        points [1]:
+            number = 27.808718731910577 
+            mark = "pause" 
+        points [2]:
+            number = 40.29774425579936 
+            mark = "pause" 
+        points [3]:
+            number = 47.26061743700736 
+            mark = "envi. noise" 
