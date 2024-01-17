@@ -42,7 +42,7 @@ Currently, the percentages that are displayed are only those that show high chan
 The `AutoAnalysis.py` can also produce a graph of the percentage of error at every point of the recording. You can do this by using the `plot_all_prob` function. It should produce a graph like this:
 <img width="601" alt="Screenshot 2023-10-30 at 9 12 14 PM" src="https://github.com/Bob-slash/Speech_Error_Analysis/assets/54908332/48207dc5-d6a6-428a-a628-9d021cb52aa6">
 
-## Step 2: Combine Textgrids
+## Step 2: Combine Textgrids (Optional)
 The `Combine_Textgrid.py` can be used to combine textgrids. Although not necessary, it was used for combining hand analyzed textgrids and textgrids that were output from the AutoAnalysis.py. Directory and file names can be changed to change save locations. 
 
 # Notes on Other Files
