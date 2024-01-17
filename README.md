@@ -31,7 +31,7 @@ run these lines:
 
 This will leave you with an output folder populated with textgrids for each recording and textgrid pair.
 
-_For more examples, please refer to the [Documentation](https://montreal-forced-aligner.readthedocs.io/en/latest/first_steps/index.html#first-steps)_
+_For more examples, please refer to the MFA [Documentation](https://montreal-forced-aligner.readthedocs.io/en/latest/first_steps/index.html#first-steps)_
 
 # Part 2: Analysis
 ## Step 1: Auto Analysis
