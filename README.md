@@ -1,4 +1,4 @@
-# Speech_Error_Analysis
+# Speech Error Analysis
 This project aims to produce probabilities for errors in speech in a given audio recording. Using the Montreal Forced Aligner (MFA), we are able to produce Praat textgrids with accurate annotations of both words and phonemes. Using this tool, we are able to accurately pinpoint exactly the speaker may have made an error. Finally, putting these textgrids into our programs will produce a final textgrid with all MFA outputs and possible locations of error. 
 
 # Part 1: Using the Montreal Forced Aligner
