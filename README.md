@@ -1,6 +1,12 @@
 # Speech Error Analysis
 This project aims to produce probabilities for errors in speech in a given audio recording. Using the Montreal Forced Aligner (MFA), we are able to produce Praat textgrids with accurate annotations of both words and phonemes. Using this tool, we are able to accurately pinpoint exactly the speaker may have made an error. Finally, putting these textgrids into our programs will produce a final textgrid with all MFA outputs and possible locations of error. 
 
+# Libraries
+1. `praatio` is used for interfacing with praat and creating textgrids.
+2. `os` is used for organizing and reading from textgrid files.
+3. `matplotlib` is used for graphing error data.
+4. `whisper` is used for speech to text applications in `main.py` (has not been implemented completely yet).
+
 # Part 1: Using the Montreal Forced Aligner
 ## Step 1: Preparing/Organizing Data
 Create 2 empty folders. One will hold the input data while the other will hold the output data. Leave the output data folder empty before running MFA. The Input folder should be populated with one or multiple recordings with a corresponding textgrid. The textgrid must have each section of text annotated. These annotations do not have to be exact. Each recording and its corresponding textgrid must have the same file name.
