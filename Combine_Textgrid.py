@@ -8,15 +8,15 @@ from praatio import textgrid
 import os
 
 mfa_directory = "Aligner Inputs"
-probability_directiory = "Probability Outputs"
-output_directory = "Final_Output"
+probability_directiory = "AllProb"
+output_directory = "AllProb_Final"
 for folderName in os.listdir(probability_directiory):
     print(folderName)
     if folderName != ".DS_Store":
         for filename in os.listdir(mfa_directory + "/" + folderName):
             if filename.endswith('.TextGrid'):
                 inputFN = mfa_directory + "/" + folderName + "/" + filename
-                inputFN2 = probability_directiory + "/" + folderName + "/" + filename
+                inputFN2 = probability_directiory + "/" + folderName + "/" + "_allProbs.TextGrid" + filename
                 mfa_tg = textgrid.openTextgrid(inputFN, includeEmptyIntervals=True)
                 prob_tg = textgrid.openTextgrid(inputFN2, includeEmptyIntervals=True)
 
