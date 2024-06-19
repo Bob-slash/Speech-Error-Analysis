@@ -4,14 +4,15 @@ Take in MFA output and using the durations of each word/phone, create
 a probability table. Anything exceptionally long or exceptionally short
 will be flagged as a possible error.
 """
-from os.path import join
 from praatio import textgrid
 import os
 import matplotlib.pyplot as plt
 
+
 def get_intervals(tier):
     intervalList = [entry for entry in tier.entries]
     return intervalList
+
 
 def get_durations(tier):
     intervalList = get_intervals(tier)
@@ -20,17 +21,18 @@ def get_durations(tier):
         durationList.append((interval.label, interval[1] - interval[0]))
     return durationList
 
-#Create Tier
+
+# Create Tier
 def new_tier(tg, name, entries, inputFN):
     newTier = textgrid.IntervalTier(name=name, entries=entries,
-                                            minT=0, maxT=tg.maxTimestamp)
+                                    minT=0, maxT=tg.maxTimestamp)
     tg.addTier(newTier)
 
     tg.save(inputFN, format="short_textgrid", includeBlankSpaces=True)
 
-#Find average duration of each repeated segment
-def find_average(durationList):
 
+# Find average duration of each repeated segment
+def find_average(durationList):
     averages = {}
 
     for duration in durationList:
@@ -49,9 +51,9 @@ def find_average(durationList):
 
     return averages
 
-#Find longest duration
-def find_long(durationList):
 
+# Find longest duration
+def find_long(durationList):
     longest = {}
 
     for duration in durationList:
@@ -67,8 +69,8 @@ def find_long(durationList):
 
     return longest
 
-def find_short(durationList):
 
+def find_short(durationList):
     shortest = {}
 
     for duration in durationList:
@@ -83,6 +85,7 @@ def find_short(durationList):
                 shortest[word] = length
 
     return shortest
+
 
 def get_probabilities(tier):
     durationList = get_durations(tier)
@@ -105,15 +108,16 @@ def get_probabilities(tier):
             probabilities.append((label, percent))
 
         else:
-            if average-short != 0:
-                percent = ((average - duration)/(average - short))
+            if average - short != 0:
+                percent = ((average - duration) / (average - short))
             else:
                 percent = 0
             probabilities.append((label, percent))
 
     return probabilities
 
-#Make Entries
+
+# Make Entries
 
 def make_entries(tier):
     intervalList = get_intervals(tier)
@@ -126,12 +130,48 @@ def make_entries(tier):
             entries.append((str(interval[0]), str(interval[1]), str(round(probability * 100, 1)) + '%'))
     return entries
 
+
+def find_probabilities():
+    directory = 'Probability Outputs'
+    for folderName in os.listdir(directory):
+        if folderName != ".DS_Store":
+            for filename in os.listdir(directory + "/" + folderName):
+                if filename.endswith('.TextGrid'):
+                    # Defining filename inputFN
+                    inputFN = directory + "/" + folderName + "/" + filename
+                    tg = textgrid.openTextgrid(inputFN,
+                                               includeEmptyIntervals=False)  # Give it a file name, get back a Textgrid object
+                    print(tg.tierNames)
+                    words_words = False
+                    for i in range(len(tg.tierNames) - 1, -1, -1):
+                        if tg.tierNames[i] == "words - words":
+                            tg.tierNames[i] = "words"
+                        if tg.tierNames[i] == "words - phones":
+                            words_words = True
+                            tg.tierNames[i] = "phones"
+                        if tg.tierNames[i] != "words" and tg.tierNames[i] != "phones":
+                            tg.removeTier(tg.tierNames[i])
+                    # Creating tiers
+                    word_tier_name = "words"
+                    phone_tier_name = "phones"
+                    if words_words:
+                        word_tier_name = "words - words"
+                        phone_tier_name = "words - phones"
+
+                    wordTier = tg.getTier(word_tier_name)
+                    new_tier(tg, "word prob", make_entries(wordTier), directory + "/" + folderName + "/" + filename)
+                    if phone_tier_name in tg.tierNames:
+                        phoneTier = tg.getTier(phone_tier_name)
+                        new_tier(tg, "phone prob", make_entries(phoneTier),
+                                 directory + "/" + folderName + "/" + filename)
+
+
 def plot_prob(entries, name):
     x = []
     y = []
     for entry in entries:
         print(entry)
-        x.append((entry[1] + entry[0])/2)
+        x.append((entry[1] + entry[0]) / 2)
         if entry[2] != '':
             y.append(float(entry[2][0:-2]))
         else:
@@ -144,38 +184,6 @@ def plot_prob(entries, name):
     plt.title(name)
     plt.show()
 
-# directory = 'Aligner Inputs'
-def find_probabilities():
-    directory = 'Probability Outputs'
-    for folderName in os.listdir(directory):
-        if folderName != ".DS_Store":
-            for filename in os.listdir(directory + "/" + folderName):
-                if filename.endswith('.TextGrid'):
-                    #Defining filename inputFN
-                    inputFN = directory + "/" + folderName + "/" + filename
-                    tg = textgrid.openTextgrid(inputFN, includeEmptyIntervals=False)  # Give it a file name, get back a Textgrid object
-                    print(tg.tierNames)
-                    words_words = False
-                    for i in range(len(tg.tierNames) - 1, -1, -1):
-                        if tg.tierNames[i] == "words - words":
-                            tg.tierNames[i] = "words"
-                        if tg.tierNames[i] == "words - phones":
-                            words_words = True
-                            tg.tierNames[i] = "phones"
-                        if tg.tierNames[i] != "words" and tg.tierNames[i] != "phones":
-                            tg.removeTier(tg.tierNames[i])
-                    #Creating tiers
-                    word_tier_name = "words"
-                    phone_tier_name = "phones"
-                    if words_words:
-                        word_tier_name = "words - words"
-                        phone_tier_name = "words - phones"
-
-                    wordTier = tg.getTier(word_tier_name)
-                    new_tier(tg,"word prob", make_entries(wordTier), directory + "/" + folderName + "/" + filename)
-                    if phone_tier_name in tg.tierNames:
-                        phoneTier = tg.getTier(phone_tier_name)
-                        new_tier(tg,"phone prob", make_entries(phoneTier), directory + "/" + folderName + "/" + filename)
 
 def plot_all_prob():
     directory = "Probability Outputs"
@@ -186,12 +194,9 @@ def plot_all_prob():
     wordsTier = tg.getTier("word prob")
     plot_prob(wordsTier.entries, "Word Probability Plot")
 
-    
-
-
 
 def main():
-    #find_probabilities()
+    # find_probabilities()
     plot_all_prob()
 
 
